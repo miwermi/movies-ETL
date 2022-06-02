@@ -21,10 +21,15 @@ Amazing Prime Video is the world's largest online retailer.  They also have a pl
 Data sources supplied include:  
 
  - Wikipedia info all movies released since 1990 (in JSON format)
- - MovieLens rating data from Kaggle (in a GIANT csv)
+ - MovieLens rating data from Kaggle (in multiple csvs)
 
+MovieLens is a website run by the GroupLens research group at the University of Minnesota. The Kaggle dataset pulls from the MovieLens dataset of over 20 million reviews and contains a metadata file with details about the movies from The Movie Database (TMDb).  Wikipedia has a ton of information about movies, including budgets and box office returns, cast and crew, production and distribution, and so much more. 
 
-MovieLens is a website run by the GroupLens research group at the University of Minnesota. The Kaggle dataset pulls from the MovieLens dataset of over 20 million reviews and contains a metadata file with details about the movies from The Movie Database (TMDb).  The first task was to inspect both the movies_metadata.csv and ratings.csv files.
+Amazing Prime Hackathon organizer Britta supplied these data sources.
+
+The first task was to inspect them all and get going in Jupyter Notebook...
+Check out this repository to see how it went!
+
 <!--![alt](resources/___.png)-->
 
 <br />
