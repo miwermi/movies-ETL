@@ -26,11 +26,11 @@ Data sources supplied include:
 
   MovieLens is a website run by the GroupLens research group at the University of Minnesota. The Kaggle dataset pulls from the MovieLens dataset of over 20 million reviews and contains a metadata file with details about the movies from The Movie Database (TMDb).  Wikipedia has a ton of information about movies, including budgets and box office returns, cast and crew, production and distribution, and so much more. Amazing Prime Hackathon organizer Britta supplied these data sources.
 
-The first task was to inspect them all and get going in Jupyter Notebook...
-Check out this repository to see how it went!
 
-<!--![alt](resources/___.png)-->
 
-<br />
 (Pictured: Module 8 Hackathon Graphic)
+
+The first task was to inspect them all and get going in Jupyter Notebook...
+
+Check out this repository to see how it went!
 
