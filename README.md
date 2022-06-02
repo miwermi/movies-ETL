@@ -7,8 +7,8 @@
 
 <br />
 Creating consistent, robust data storage systems with data relationships that maintain data integrity and efficient querying performance is what the ETL process strives for. In this project, data was extracted from two different web sources, then supplied for cleaning, to be loaded into a new database. The cleaning process was intense.
-<br />
 
+<br />
 (Pictured: "ETL: Extract Transform and Load")
 
 ## About the project:
@@ -17,7 +17,6 @@ Amazing Prime Video is the world's largest online retailer.  They also have a pl
 
 <!--![alt](resources/___.png)-->
 <img src="https://github.com/miwermi/movies-ETL/blob/main/resources/APV-ETL-hackathon.png" align="right" width="500" height="293" alt ="graphic: hackathon">
-(Pictured: Module 8 Hackathon Graphic)
 
 Data sources supplied include:  
 
@@ -25,7 +24,9 @@ Data sources supplied include:
  - MovieLens rating data from Kaggle (in a GIANT csv)
 
 
-MovieLens is a website run by the GroupLens research group at the University of Minnesota. The Kaggle dataset pulls from the MovieLens dataset of over 20 million reviews and contains a metadata file with details about the movies from The Movie Database (TMDb)Links to an external site.. Download the zip file from KaggleLinks to an external site., extract it to your class folder, and decompress the CSV files. We're interested in the movies_metadata.csv and ratings.csv files.
+MovieLens is a website run by the GroupLens research group at the University of Minnesota. The Kaggle dataset pulls from the MovieLens dataset of over 20 million reviews and contains a metadata file with details about the movies from The Movie Database (TMDb).  The first task was to inspect both the movies_metadata.csv and ratings.csv files.
 <!--![alt](resources/___.png)-->
-<img src="https://github.com/miwermi/movies-ETL/blob/main/resources/APV-ETL-hackathon.png" width="500" height="293" alt ="graphic: hackathon">
-Pictured: Module 8 Hackathon Graphic
+
+<br />
+(Pictured: Module 8 Hackathon Graphic)
+
