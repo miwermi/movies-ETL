@@ -28,7 +28,7 @@ Data sources supplied include:
 
 
 
-(Pictured: Module 8 Hackathon Graphic)
+                                                                                (Pictured: Module 8 Hackathon Graphic)
 
 The first task was to inspect them all and get going in Jupyter Notebook...
 
