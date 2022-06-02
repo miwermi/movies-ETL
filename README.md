@@ -10,7 +10,7 @@
 
 
 
-(Pictured: "ETL: Extract Transform and Load")
+                                                                            (Pictured: "ETL: Extract Transform and Load")
 
 ## About the project:
 
