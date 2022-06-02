@@ -1,5 +1,5 @@
                                                                                            Michelle Werner (6/1/2022)
-# ETL: Extract Transform and Load
+# ETL: Extract, Transform, and Load
 ---
 
 <!--![alt](resources/___.png)-->
