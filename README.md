@@ -3,10 +3,11 @@
 ---
 
 <!--![alt](resources/___.png)-->
-<img src="https://github.com/miwermi/movies-ETL/blob/main/resources/extract-transform-load.png" alt ="graphic: ETL: Extract, Transform, Load">
-Pictured Above: "ETL: Extract Transform and Load")
+<img src="https://github.com/miwermi/movies-ETL/blob/main/resources/extract-transform-load.png" align="right" width="640" height="278" alt="graphic: ETL: Extract, Transform, Load">
 
 Creating consistent, robust data storage systems with data relationships that maintain data integrity and efficient querying performance is what the ETL process strives for. In this project, data was extracted from two different web sources, then supplied for cleaning, to be loaded into a new database. The cleaning process was intense.
+
+Pictured: "ETL: Extract Transform and Load")
 
 ## About the project:
 
